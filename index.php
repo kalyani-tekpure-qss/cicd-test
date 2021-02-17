@@ -1,4 +1,4 @@
-<?php include 'header.php';  ?>
+<?php echo "kalyani at index"; die(); include 'header.php';  ?>
 <div class="main">
     <h1>Ag-Grid with Sorting and Filtering</h1>
     
